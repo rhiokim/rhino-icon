@@ -1,6 +1,6 @@
 # Rhino Icon
 
-I drawed a rhino icons using a keynote. If you want to redraw and change a bit. Download [Rhino.key](https://github.com/rhiokim/rhino-icons/blob/master/Rhino.key?raw=true)
+I drawed a rhino icons using a keynote. If you want to redraw and change a bit. Download [Rhino.key](https://github.com/rhiokim/rhino-icon/blob/master/Rhino.key?raw=true)
 
 ![](./media/intro.png)
 
